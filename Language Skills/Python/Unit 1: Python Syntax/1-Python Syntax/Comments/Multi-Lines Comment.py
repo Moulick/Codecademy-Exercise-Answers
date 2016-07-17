@@ -1,3 +1,0 @@
-""" eai jovem
-blz
-"""
